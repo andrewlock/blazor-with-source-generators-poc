@@ -1,6 +1,6 @@
 # Source Generators don't work with Razor componenets
 
-This project uses [a "Hello world" source generator](https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/) and the latest .NET 5 preview (5.0.0-preview.7.20364.11) to demonstrate that Source Generators don't work correctly with any ASP.NET Core application that includes a Razor template.
+This project uses [a "Hello world" source generator](https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/) and the latest .NET 5 preview (5.0.100-preview.8.20417.9) to demonstrate that Source Generators don't work correctly with any ASP.NET Core application that includes a Razor template.
 
 This solution includes 4 projects:
 
